@@ -1,0 +1,13 @@
+{
+  "name": "datracka/contact-form-7",
+  "type": "wordpress-plugin",
+  "package": {
+    "source": {
+      "url": "git@github.com:datracka/contact-form-7.git",
+      "type": "git"
+    },
+    "require": {
+      "composer/installers": "~1.0.6"
+    }
+  }
+}
